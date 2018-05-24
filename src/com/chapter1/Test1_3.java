@@ -6,5 +6,6 @@ public class Test1_3 {
         System.out.println("这是测试1");
         System.out.println("这是测试2");
         System.out.println("这是测试3");
+        System.out.println("这是测试4");
     }
 }
