@@ -5,4 +5,5 @@ public class Test1_3 {
         System.out.println("nihao");
         System.out.println("woyehao");
     }
+    public String name;
 }
