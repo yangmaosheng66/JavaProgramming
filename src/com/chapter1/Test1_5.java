@@ -2,7 +2,6 @@ package com.chapter1;
 
 public class Test1_5 {
     public static void main(String[] args){
-        System.out.println("14234");
-        System.out.println("jhgudh");
+        System.out.println((9.5*4.5-2.5*3)/(45.5-3.5));
     }
 }
