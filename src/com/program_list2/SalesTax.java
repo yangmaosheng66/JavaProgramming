@@ -10,7 +10,7 @@ public class SalesTax {
         double purchaseAmount = input.nextDouble();
 
         double tax = purchaseAmount * 0.06;
-        //保留小数点后两位
-        System.out.println("Sales tax is $" + (int)(tax * 100) / 100.0);
+
+        System.out.println("Sales tax is $" + (int)(tax * 100) / 100.0);//保留小数点后两位
     }
 }
