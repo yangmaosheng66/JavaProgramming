@@ -8,7 +8,7 @@ public class Test1_11 {
 //        double immigrant = second / 45.0;
 //        double population = 312032486.0;
 //        for (int i = 0; i < 5; i++) {
-//            population = (int) (population + born - death + immigrant);
+//            population = (int)(population + born - death + immigrant);
 //            System.out.println("population " + (i + 1) + "=" + population);
 //        }
             int nowpeople=312032486;

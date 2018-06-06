@@ -24,6 +24,6 @@ public class Test2_8 {
         long currentHour = totalHours % 24;          //Console is wrong
 
         System.out.println("The current time is " + currentHour + ":" +
-        currentMinute + " " + currentSecond);
+        currentMinute + ":" + currentSecond);
     }
 }
